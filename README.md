@@ -1,4 +1,4 @@
-# Food Master
+# Food Master (This is a flutter project)
 
 Native apps: Foods showing around your area and help picking your choices.
 
